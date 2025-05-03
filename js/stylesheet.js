@@ -47,9 +47,6 @@ window.onload = function({ target: Document }) {
   
         <div class="resolution">
           <h1>resolução não suportada!</h1>
-          <a class="anchor" href="https://www.instagram.com/codansoficial">
-            siga @codans nas redes sociais
-          </a>
         </div>
       `;
   
